@@ -5,10 +5,10 @@ public class Gerente extends Funcionario {
         this.setDepRes(depResp);
     }
     
-    //Atributos
+    //Atributo
     private String depResp;
     
-    //Métodos Getters e Setters
+    //Métodos Getters e Setter
     public void setDepRes (String depResp) {
         this.depResp = depResp;
     }

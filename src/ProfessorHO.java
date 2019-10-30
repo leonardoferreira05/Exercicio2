@@ -5,7 +5,7 @@ public class ProfessorHO extends Professor {
         this.setValorHr(vHr);
     }
     
-    //Atributos
+    //Atributo
     double valorHr;
     
     //Métodos Getters e Setters

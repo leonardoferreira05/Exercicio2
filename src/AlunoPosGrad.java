@@ -5,7 +5,7 @@ public class AlunoPosGrad extends Aluno {
         this.setPosGrad(p);
     }
     
-    //Atributos
+    //Atributo
     private PosGrad posgraduacao;
     
     //Métodos Getters e Setters

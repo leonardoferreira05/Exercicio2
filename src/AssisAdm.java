@@ -9,7 +9,7 @@ public class AssisAdm extends Funcionario {
     Gerente supervisor;
     private double adcNoturno;
     
-    //Métodos Getters e Setters
+    //Métodos Getter e Setter
     public void setSupervisor (Gerente spv){
         this.supervisor = spv;
     }

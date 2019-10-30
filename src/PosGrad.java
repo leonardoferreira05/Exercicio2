@@ -5,7 +5,7 @@ public class PosGrad extends Disciplina {
         this.setProfessor(pf);
     }
     
-    //Atributos
+    //Atributo
     private String professor;
     
     //Métodos Getters e Setters

@@ -10,7 +10,7 @@ public class Operario extends Empregado {
     private double valorProducao;
     private int comissao;
     
-    //Métodos Getters e Setters
+    //Métodos Getters e Setter
     public void setValorProducao (double vP) {
         this.valorProducao = vP;
     }
@@ -26,8 +26,7 @@ public class Operario extends Empregado {
     public int getComissao () {
         return this.comissao;
     }
-    
-    @Override
+   
     public double calcularSalario () {
         return this.getSalarioBase() - ((this.getSalarioBase() * this.getImposto()) / 100) + 
                 (this.getSalarioBase() + ((this.valorProducao * this.comissao) / 100));

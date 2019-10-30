@@ -5,7 +5,7 @@ public class Graduacao extends Disciplina {
         this.setProfessor(pf);
     }
     
-    //Atributos
+    //Atributo
     private String professor;
     
     //Métodos Getters e Setters

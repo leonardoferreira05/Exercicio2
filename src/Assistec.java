@@ -1,6 +1,6 @@
-public class AssisTec extends Funcionario {
+public class Assistec extends Funcionario {
     
-    public AssisTec (String n, int m, Gerente spv){
+    public Assistec (String n, int m, Gerente spv){
         super(n, m);
         this.setSupervisor(spv);
     }
@@ -9,7 +9,7 @@ public class AssisTec extends Funcionario {
     Gerente supervisor;
     private double bonus;
     
-    //Métodos Getters e Setters
+    //Métodos Getters e Setter
     public void setSupervisor (Gerente spv){
         this.supervisor = spv;
     }

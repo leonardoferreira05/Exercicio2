@@ -3,7 +3,7 @@ public class TestaUniversidade {
     public static void main(String[] args) {
         
         ProfessorRI pfRI1 = new ProfessorRI("Leo", 21, 676465, 2500.00);
-        ProfessorHO pfHO1 = new ProfessorHO("Bia", 25, 545454, 10.00);
+        ProfessorHO pfHO1 = new ProfessorHO("Bia", 25, 215454, 10.00);
         
         System.out.println("Professor Integral 40 hr/semana:");
         System.out.println("Nome: " + pfRI1.getNome());

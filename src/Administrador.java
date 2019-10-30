@@ -5,7 +5,7 @@ public class Administrador extends Empregado {
         this.setAjudaDeCusto(aDC);
     }
  
-    //Atributos
+    //Atributo
     private double ajudaDeCusto;
     
     //Métodos Getters e Setters

@@ -9,7 +9,7 @@ public class Disciplina {
     private String nomeD;
     private int codigoD;
     
-    //Métodos Getters e Setters
+    //Métodos Getters e Setter
     public void setNomeD (String nD) {
         this.nomeD = nD;
     }

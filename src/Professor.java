@@ -12,7 +12,7 @@ public class Professor {
         this.setMatricula(m);
     }
     
-    //Métodos Getter e Setter
+    //Métodos Getter e Setters
     public void setNome(String n) {
         this.nome = n;
     }

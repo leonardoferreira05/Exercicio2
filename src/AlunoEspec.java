@@ -10,7 +10,7 @@ public class AlunoEspec extends Aluno {
     private Graduacao graduacao;
     private PosGrad posgraduacao;
     
-    //Métodos Getters e Setters
+    //Métodos Getters e Setter
     public void setGrad (Graduacao g) {
         this.graduacao = g;
     }
