@@ -10,7 +10,7 @@ public class Fornecedor extends Pessoa {
     private double valorCredito; 
     private double valorDivida;
     
-    //Métodos Getters e Setter
+    //Métodos Getters e Setters
     public void setValorCredito(double vC) {
         this.valorCredito = vC;
     }

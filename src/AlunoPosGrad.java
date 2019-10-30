@@ -8,7 +8,7 @@ public class AlunoPosGrad extends Aluno {
     //Atributo
     private PosGrad posgraduacao;
     
-    //Métodos Getters e Setters
+    //Métodos Getters e Setter
     public void setPosGrad (PosGrad p) {
         this.posgraduacao = p;
     }

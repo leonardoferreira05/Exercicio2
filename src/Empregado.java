@@ -12,7 +12,7 @@ public class Empregado extends Pessoa {
     private double salarioBase;
     private int imposto;
     
-    //Métodos Getters e Setter 
+    //Métodos Getters e Setters 
     public void setCodigoSetor (int cS) {
         this.codigoSetor = cS;
     }

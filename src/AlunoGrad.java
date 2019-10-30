@@ -8,7 +8,7 @@ public class AlunoGrad extends Aluno {
     //Atributo
     private Graduacao graduacao;
     
-    //Métodos Getters e Setters
+    //Métodos Getters e Setter
     public void setGrad (Graduacao g) {
         this.graduacao = g;
     }

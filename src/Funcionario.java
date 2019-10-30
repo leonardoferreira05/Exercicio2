@@ -10,7 +10,7 @@ public class Funcionario {
         this.setMatricula(m);
     }
     
-    //Métodos Getters e Setter
+    //Métodos Getters e Setters
     public void setNome(String n) {
         this.nome = n;
     }

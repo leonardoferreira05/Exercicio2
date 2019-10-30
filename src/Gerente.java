@@ -8,7 +8,7 @@ public class Gerente extends Funcionario {
     //Atributo
     private String depResp;
     
-    //Métodos Getters e Setter
+    //Métodos Getters e Setters
     public void setDepRes (String depResp) {
         this.depResp = depResp;
     }

@@ -8,7 +8,7 @@ public class ProfessorHO extends Professor {
     //Atributo
     double valorHr;
     
-    //Métodos Getters e Setters
+    //Métodos Getters e Setter
     public void setValorHr(double vHr){
         this.valorHr = vHr;
     }

@@ -8,7 +8,7 @@ public class Administrador extends Empregado {
     //Atributo
     private double ajudaDeCusto;
     
-    //Métodos Getters e Setters
+    //Métodos Getters e Setter
     public void setAjudaDeCusto (double aDC) {
         this.ajudaDeCusto = aDC;
     }

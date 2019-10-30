@@ -9,7 +9,7 @@ public class Aluno {
         this.setMatricula(m);
     }
     
-    //Métodos Getters e Setter
+    //Métodos Getters e Setters
     public void setNome(String n) {
         this.nome = n;
     }

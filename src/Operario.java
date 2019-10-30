@@ -10,7 +10,7 @@ public class Operario extends Empregado {
     private double valorProducao;
     private int comissao;
     
-    //Métodos Getters e Setter
+    //Métodos Getters e Setters
     public void setValorProducao (double vP) {
         this.valorProducao = vP;
     }

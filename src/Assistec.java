@@ -9,7 +9,7 @@ public class Assistec extends Funcionario {
     Gerente supervisor;
     private double bonus;
     
-    //Métodos Getters e Setter
+    //Métodos Getters e Setters
     public void setSupervisor (Gerente spv){
         this.supervisor = spv;
     }

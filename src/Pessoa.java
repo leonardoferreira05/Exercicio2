@@ -12,7 +12,7 @@ public class Pessoa {
         this.setTelefone(t);
     }
     
-    //Métodos Getters e Setter
+    //Métodos Getters e Setters
     public void setNome(String n) {
         this.nome = n;
     }

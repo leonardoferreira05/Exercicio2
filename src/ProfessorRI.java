@@ -8,7 +8,7 @@ public class ProfessorRI extends Professor {
     //Atributo
     double salario;
     
-    //Métodos Gtters e Setter
+    //Métodos Gtters e Setters
     public void setSalario(double s) {
         this.salario = s;
     }

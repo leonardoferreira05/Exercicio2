@@ -5,7 +5,7 @@ public class TestaEmpresa {
         Gerente gt1 = new Gerente("Leo", 1238290, "cantina");
         Gerente gt2 = new Gerente("Poliane", 2924678, "almoxarifado");
         
-        AssisAdm assisAdm1 = new AssisAdm("Luiza", 1607543, gt1);
+        AssisAdm assisAdm1 = new AssisAdm("Luiz", 1607543, gt1);
         Assistec assistec1 = new Assistec("Rodrigo", 897879, gt2);
         
         System.out.println("Assistente Administrativo:");

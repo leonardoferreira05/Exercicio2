@@ -8,7 +8,7 @@ public class Graduacao extends Disciplina {
     //Atributo
     private String professor;
     
-    //Métodos Getters e Setters
+    //Métodos Getters e Setter
     public void setProfessor (String pf) {
         this.professor = pf;
     }
